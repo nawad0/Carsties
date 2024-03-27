@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Carsties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDDF5E5-C5AB-4685-8880-A1469F076F9B}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{FDDDF5E5-C5AB-4685-8880-A1469F076F9B}|D:\\Projects\\Carsties\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDDDF5E5-C5AB-4685-8880-A1469F076F9B}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{FDDDF5E5-C5AB-4685-8880-A1469F076F9B}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\data\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\data\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\auctionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\auctionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|d:\\projects\\carsties\\src\\auctionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{757BEEB7-F4F6-43F3-AD48-690A05E9AF62}|src\\AuctionService\\AuctionService.csproj|solutionrelative:src\\auctionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "src\\AuctionService\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAIAwwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:22:58.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Projects\\Carsties\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-27T15:02:50.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuctionDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Data\\AuctionDbContext.cs",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Data\\AuctionDbContext.cs",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Data\\AuctionDbContext.cs",
+              "RelativeToolTip": "src\\AuctionService\\Data\\AuctionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:02:18.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Entities\\Item.cs",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Entities\\Item.cs",
+              "RelativeToolTip": "src\\AuctionService\\Entities\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:02:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Entities\\Status.cs",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Entities\\Status.cs",
+              "RelativeToolTip": "src\\AuctionService\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:02:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Entities\\Auction.cs",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Entities\\Auction.cs",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Entities\\Auction.cs",
+              "RelativeToolTip": "src\\AuctionService\\Entities\\Auction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:02:11.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AuctionService\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\appsettings.json",
+              "RelativeToolTip": "src\\AuctionService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T13:05:29.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\AuctionService\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\appsettings.Development.json",
+              "RelativeToolTip": "src\\AuctionService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T13:05:26.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\AuctionService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T13:02:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AuctionService\\Program.cs",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\Program.cs",
+              "RelativeToolTip": "src\\AuctionService\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:52:51.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuctionService.csproj",
+              "DocumentMoniker": "D:\\Projects\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+              "RelativeDocumentMoniker": "src\\AuctionService\\AuctionService.csproj",
+              "ToolTip": "D:\\Projects\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+              "RelativeToolTip": "src\\AuctionService\\AuctionService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T12:52:47.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
