@@ -54,11 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -70,8 +74,7 @@
               "RelativeToolTip": "src\\AuctionService\\Data\\DbInitializer.cs",
               "ViewState": "AQIAAMMAAAAAAAAAAIAwwBcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T15:22:58.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T15:22:58.834Z"
             },
             {
               "$type": "Document",
@@ -83,8 +86,7 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-03-27T15:02:50.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T15:02:50.898Z"
             },
             {
               "$type": "Document",
@@ -96,8 +98,7 @@
               "RelativeToolTip": "src\\AuctionService\\Data\\AuctionDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:02:18.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T14:02:18.95Z"
             },
             {
               "$type": "Document",
@@ -109,8 +110,7 @@
               "RelativeToolTip": "src\\AuctionService\\Entities\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:02:13.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T14:02:13.331Z"
             },
             {
               "$type": "Document",
@@ -122,8 +122,7 @@
               "RelativeToolTip": "src\\AuctionService\\Entities\\Status.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:02:13.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T14:02:13.299Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "src\\AuctionService\\Entities\\Auction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:02:11.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T14:02:11.836Z"
             },
             {
               "$type": "Document",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "src\\AuctionService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-26T13:05:29.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:05:29.85Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "src\\AuctionService\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-26T13:05:26.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:05:26.081Z"
             },
             {
               "$type": "Document",
@@ -174,8 +170,7 @@
               "RelativeToolTip": "src\\AuctionService\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-26T13:02:49.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:02:49.796Z"
             },
             {
               "$type": "Document",
