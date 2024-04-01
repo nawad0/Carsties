@@ -9,6 +9,8 @@
       "AuctionService/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Contracts": "1.0.0",
+          "MassTransit.EntityFrameworkCore": "8.2.0",
           "MassTransit.RabbitMQ": "8.2.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.3",
           "Microsoft.EntityFrameworkCore.Design": "8.0.3",
@@ -71,6 +73,18 @@
       "MassTransit.Abstractions/8.2.0": {
         "runtime": {
           "lib/net8.0/MassTransit.Abstractions.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      },
+      "MassTransit.EntityFrameworkCore/8.2.0": {
+        "dependencies": {
+          "MassTransit": "8.2.0",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll": {
             "assemblyVersion": "8.2.0.0",
             "fileVersion": "8.2.0.0"
           }
@@ -683,7 +697,12 @@
           "System.Text.Encodings.Web": "8.0.0"
         }
       },
-      "System.Threading.Channels/8.0.0": {}
+      "System.Threading.Channels/8.0.0": {},
+      "Contracts/1.0.0": {
+        "runtime": {
+          "Contracts.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -726,6 +745,13 @@
       "sha512": "sha512-BLMDGGvElV3Lu0KFNHZiui8BmdRCX7Y1WPSM+PW5ZKdBMPUQ3jRriZHglEh5yDLd2luJqG9nRY2+gTPwezFF7w==",
       "path": "masstransit.abstractions/8.2.0",
       "hashPath": "masstransit.abstractions.8.2.0.nupkg.sha512"
+    },
+    "MassTransit.EntityFrameworkCore/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i5Bb01Xo5o7qDwlKF2fVXvWnFej1Bs21z2WB6NrQV3FfqZbgyhGkQ+Dd5xoe6cp4T8DOnkBcibSuxxOT1SlGxQ==",
+      "path": "masstransit.entityframeworkcore/8.2.0",
+      "hashPath": "masstransit.entityframeworkcore.8.2.0.nupkg.sha512"
     },
     "MassTransit.RabbitMQ/8.2.0": {
       "type": "package",
@@ -1125,6 +1151,11 @@
       "sha512": "sha512-CMaFr7v+57RW7uZfZkPExsPB6ljwzhjACWW1gfU35Y56rk72B/Wu+sTqxVmGSk4SFUlPc3cjeKND0zktziyjBA==",
       "path": "system.threading.channels/8.0.0",
       "hashPath": "system.threading.channels.8.0.0.nupkg.sha512"
+    },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

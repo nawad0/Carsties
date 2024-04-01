@@ -112,3 +112,6 @@ D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel
 D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\RabbitMQ.Client.dll
 D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Contracts.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Contracts.pdb
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\MassTransit.EntityFrameworkCoreIntegration.dll

@@ -81,6 +81,23 @@
           }
         }
       },
+      "MassTransit.EntityFrameworkCore/8.2.0": {
+        "type": "package",
+        "dependencies": {
+          "MassTransit": "8.2.0",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MassTransit.RabbitMQ/8.2.0": {
         "type": "package",
         "dependencies": {
@@ -1223,6 +1240,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contracts.dll": {}
+        }
       }
     }
   },
@@ -1321,6 +1348,27 @@
         "lib/netstandard2.1/MassTransit.Abstractions.xml",
         "masstransit.abstractions.8.2.0.nupkg.sha512",
         "masstransit.abstractions.nuspec",
+        "mt-logo-small.png"
+      ]
+    },
+    "MassTransit.EntityFrameworkCore/8.2.0": {
+      "sha512": "i5Bb01Xo5o7qDwlKF2fVXvWnFej1Bs21z2WB6NrQV3FfqZbgyhGkQ+Dd5xoe6cp4T8DOnkBcibSuxxOT1SlGxQ==",
+      "type": "package",
+      "path": "masstransit.entityframeworkcore/8.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net6.0/MassTransit.EntityFrameworkCoreIntegration.dll",
+        "lib/net6.0/MassTransit.EntityFrameworkCoreIntegration.xml",
+        "lib/net7.0/MassTransit.EntityFrameworkCoreIntegration.dll",
+        "lib/net7.0/MassTransit.EntityFrameworkCoreIntegration.xml",
+        "lib/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll",
+        "lib/net8.0/MassTransit.EntityFrameworkCoreIntegration.xml",
+        "lib/netstandard2.0/MassTransit.EntityFrameworkCoreIntegration.dll",
+        "lib/netstandard2.0/MassTransit.EntityFrameworkCoreIntegration.xml",
+        "masstransit.entityframeworkcore.8.2.0.nupkg.sha512",
+        "masstransit.entityframeworkcore.nuspec",
         "mt-logo-small.png"
       ]
     },
@@ -3163,11 +3211,18 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Contracts/Contracts.csproj",
+      "msbuildProject": "../Contracts/Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "Contracts >= 1.0.0",
+      "MassTransit.EntityFrameworkCore >= 8.2.0",
       "MassTransit.RabbitMQ >= 8.2.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.3",
@@ -3205,13 +3260,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\Carsties\\src\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\Projects\\Carsties\\src\\Contracts\\Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3221,6 +3285,10 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[12.0.1, )"
+          },
+          "MassTransit.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.2.0, )"
           },
           "MassTransit.RabbitMQ": {
             "target": "Package",
