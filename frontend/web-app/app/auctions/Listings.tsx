@@ -32,7 +32,10 @@ export default function Listings() {
         })
     }, [url])
 
-    if (!data) return <h3>Loading...</h3>
+    if (!data)
+    {
+        return <></>
+    }
 
     return (
         <>
