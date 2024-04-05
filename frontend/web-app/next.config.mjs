@@ -10,7 +10,8 @@ const nextConfig =
 
                 domains:
                     [
-                        'cdn.pixabay.com'
+                        'cdn.pixabay.com',
+                        'media.istockphoto.com'
                     ]
             }
     };
