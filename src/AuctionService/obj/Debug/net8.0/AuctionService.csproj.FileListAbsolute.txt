@@ -115,3 +115,10 @@ D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\System.IdentityModel.To
 D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Contracts.dll
 D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Contracts.pdb
 D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\MassTransit.EntityFrameworkCoreIntegration.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\Projects\Carsties\src\AuctionService\bin\Debug\net8.0\Grpc.Net.Common.dll
